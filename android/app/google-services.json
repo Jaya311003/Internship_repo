@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "437948490343",
+    "project_id": "intenship-project-2cd80",
+    "storage_bucket": "intenship-project-2cd80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437948490343:android:1ba49862cc0c81d1baaac2",
+        "android_client_info": {
+          "package_name": "com.example.internship_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437948490343-b2jcodcrkmfdonmb9l35a76o478vr5gn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.internship_project",
+            "certificate_hash": "7e660e501099a07069bcc7c05e1f2771764ec858"
+          }
+        },
+        {
+          "client_id": "437948490343-ibeashukjf5q0p7gd87l49n7hikrui2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhpx8lZWoU6Xh-VjAG-irLR9P0_QqwtCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437948490343-ibeashukjf5q0p7gd87l49n7hikrui2j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "437948490343-io657v76t4niftk4hub01tisatn1c2kk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.internshipProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
